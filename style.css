@@ -1,1 +1,7 @@
-/*henk*/
+body
+{
+	background-image:url(style.png);
+	background-size:auto;
+	background-position:top;
+	background-repeat:no-repeat;
+}
